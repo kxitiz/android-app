@@ -21,4 +21,11 @@ public class MainActivity extends AppCompatActivity {
         Toast toast = Toast.makeText(this, R.string.toast_message, Toast.LENGTH_SHORT);
         toast.show();
     }
+    public void countUp(View view) {
+        mCount++;
+        if (mShowCount != null){
+            mShowCount.setText(mCount);
+
+        }
+    }
 }
