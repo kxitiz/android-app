@@ -3,7 +3,7 @@
     <string name="article_heading">What is article?</string>
     <string name="article_subheading">What is Article Writing</string>
     <string name="article_text">An article is a written work published in a print/electronic medium. It may be for the purpose of propagating news, researching results, academic analysis, or debate. Generally, it is a piece of writing that is published in a newspaper or Magazine.
-\n\n
+\n\n For more information, see www.articles.com \n\n
 <b><i>Article Writing Format</i></b> - When a student has to attempt a question on Article writing, he has to follow the article writing format by CBSE. Here you can see how to write article writing formats in detail.
 The format of an article consists of the following parts –
 \n\n
@@ -29,4 +29,5 @@ Any other relevant and related information.
 PARAGRAPH 3 or PARAGRAPH 4: The conclusion. It is the concluding paragraph. It is important to conclude what you’ve started. Never leave an article open-ended. Now, it is to be remembered that wherever you elaborate a problem, you always have to mention the steps being taken to improvise the situation and suggest a few solutions as well. Predictions and personal problems may be included. This paragraph needs to be short and precise. Here also, you could add some glitter to your art piece with some quotes.
 \n\n
 </string>
+    <string name="add_comment">Add Comment</string>
 </resources>
