@@ -1,7 +1,7 @@
-# Text and scrolling views
+# Fragments
 ## Testing
 ![Build Screen](./screenshots/test.gif)
 ## ScreenShots
 ![Build Screen](./screenshots/first.png)
 
-![Toast Button Screen](./screenshots/second.png)
+![Build Screen](./screenshots/second.png)

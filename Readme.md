@@ -4,4 +4,6 @@
 ## ScreenShots
 ![Build Screen](./screenshots/first.png)
 
-![Toast Button Screen](./screenshots/second.png)
+![Build Screen](./screenshots/second.png)
+
+![Build Screen](./screenshots/rate.png)

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/home/milkyway/sync/College/L6/MAD/android-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/home/milkyway/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/6b69ec87f2ed59775acc3897eb56557d/res/values-v24/values-v24.xml",

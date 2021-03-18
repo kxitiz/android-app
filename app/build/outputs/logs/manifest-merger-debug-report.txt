@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b03bf782cbaef9edc80154f122ffe05f/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v4:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/bd1d3f32db51c9f0aaa1c0d7e4dad728/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/63ea42eb8108da9b55f38f1ccf1c6cae/AndroidManifest.xml:17:1-31:12
@@ -14,25 +14,25 @@ MERGED from [com.android.support:support-core-ui:26.0.1] /home/milkyway/.gradle/
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/5a184c2ffc374dc599077ef03600f197/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/6b69ec87f2ed59775acc3897eb56557d/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0a7dc8d2e149a3464f255e5a986c6896/AndroidManifest.xml:17:1-31:12
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
 	package
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:3:5-50
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:19:5-50
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:1-22:12
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:18:11-69
 application
-ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:5:5-20:19
+ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:21:5-35:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b03bf782cbaef9edc80154f122ffe05f/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b03bf782cbaef9edc80154f122ffe05f/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/bd1d3f32db51c9f0aaa1c0d7e4dad728/AndroidManifest.xml:25:5-29:19
@@ -54,39 +54,35 @@ MERGED from [com.android.support:support-media-compat:26.0.1] /home/milkyway/.gr
 MERGED from [com.android.support:support-compat:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0a7dc8d2e149a3464f255e5a986c6896/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0a7dc8d2e149a3464f255e5a986c6896/AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:25:9-54
 	android:icon
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.android.fragmentexample.SecondActivity
-ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:12:9-61
-	android:name
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:12:19-49
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:27:9-40
 activity#com.example.android.fragmentexample.MainActivity
-ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:13:9-19:20
+ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:13:19-47
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:28:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml:32:27-74
 uses-sdk
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b03bf782cbaef9edc80154f122ffe05f/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b03bf782cbaef9edc80154f122ffe05f/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/bd1d3f32db51c9f0aaa1c0d7e4dad728/AndroidManifest.xml:21:5-23:54
@@ -107,18 +103,18 @@ MERGED from [com.android.support:support-media-compat:26.0.1] /home/milkyway/.gr
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/6b69ec87f2ed59775acc3897eb56557d/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-compat:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0a7dc8d2e149a3464f255e5a986c6896/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0a7dc8d2e149a3464f255e5a986c6896/AndroidManifest.xml:21:5-23:58
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b03bf782cbaef9edc80154f122ffe05f/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
-		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+		ADDED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milkyway/sync/College/L6/MAD/android-app/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b03bf782cbaef9edc80154f122ffe05f/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.0.1] /home/milkyway/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/bd1d3f32db51c9f0aaa1c0d7e4dad728/AndroidManifest.xml:26:9-28:38

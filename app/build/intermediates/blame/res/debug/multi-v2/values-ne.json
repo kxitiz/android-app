@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
+            "outputFile": "/home/milkyway/sync/College/L6/MAD/android-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
             "map": [
                 {
                     "source": "/home/milkyway/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b03bf782cbaef9edc80154f122ffe05f/res/values-ne/values-ne.xml",
