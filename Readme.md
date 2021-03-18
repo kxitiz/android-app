@@ -4,6 +4,4 @@
 ## ScreenShots
 ![Build Screen](./screenshots/first.png)
 
-![Build Screen](./screenshots/send.png)
-
-![Build Screen](./screenshots/reply.png)
+![Build Screen](./screenshots/second.png)

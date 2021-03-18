@@ -1,0 +1,4 @@
+#Thu Mar 18 21:01:16 NPT 2021
+base.0=/home/milkyway/sync/College/L6/MAD/android-app/HOMEWORK/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
