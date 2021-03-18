@@ -24,12 +24,12 @@
         android:id="@+id/button_zero"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/grey"
-        android:onClick="zeroToast"
         android:layout_below="@id/button_toast"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
+        android:backgroundTint="@color/grey"
+        android:onClick="zeroToast"
         android:text="@string/button_label_zero"
         android:textColor="@android:color/white" />
 
@@ -48,12 +48,12 @@
 
     <TextView
         android:id="@+id/show_counts"
-        android:layout_width="287dp"
-        android:layout_height="325dp"
+        android:layout_width="601dp"
+        android:layout_height="514dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginStart="113dp"
-        android:layout_marginEnd="11dp"
+        android:layout_marginStart="127dp"
+        android:layout_marginEnd="22dp"
         android:layout_marginBottom="8dp"
         android:background="#FFFF00"
         android:gravity="center_vertical"
