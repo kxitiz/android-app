@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Text and Scrolling views</string>
+    <string name="article_title">What is Article</string>
+    <string name="article_subtitle">What is Article Writing</string>
+    <string name="article_text">An article is a written work published in a print/electronic medium. It may be for the purpose of propagating news, researching results, academic analysis, or debate. Generally, it is a piece of writing that is published in a newspaper or Magazine.
+    \n\n For more information, see www.articles.com \n\n
+    <b><i>Article Writing Format</i></b> - When a student has to attempt a question on Article writing, he has to follow the article writing format by CBSE. Here you can see how to write article writing formats in detail.
+    The format of an article consists of the following parts –
+    \n\n
+    Heading,
+    By line, and\n\n
+    Body\n\n
+    <b><i>HEADING-</i></b>
+    \n\nThe heading should be catchy and in not more than 5-6 words. You can go as creative as you want with this one just make sure you do not devote too much time on it in the exam.<b><i>BY LINE-</i></b> It refers to the name of the person writing the article. It is generally given in the question. If not given, then do not write your personal details.
+    (NOTE- You are not supposed to mention any of your personal details while attempting the answers in the exam.)
+
+    <b><i>BODY-</i></b> \n\n
+    It is the main part of your writing piece. It generally consists of 3-4 paragraphs.
+    PARAGRAPH 1: It is always prescribed that you begin with a short introduction of the topic; it’s meaning to be precise. Briefly tell what the article is about giving some quotations or startling facts to arouse the interest of the readers.
+    PARAGRAPH 2 or PARAGRAPH 2 and 3: Now this part can be written in either one or two paragraphs. You are required to do a complete analysis of the subject matter in question. It may include-
+    \n\n<b><i>TYPES -</i></b>\n\n
+    In how many forms does the problem exist? You are required to mention the various possible types (if it exists).
+    \n\n <b><i>CURRENT SCENARIO -</i></b> \n\n
+    Then you need to explain the current situation, the problems (if any) and whether after any corrective actions, betterment in the situation has been observed or not.
+    It may include advantages/ disadvantages depending upon the topic in question.
+    \n\n <b><i>CAUSE AND EFFECT RELATIONSHIP-</i></b> \n\n
+    Develop the cause and effect relationship by supporting it with facts or data. You may also write the consequences.
+    Any other relevant and related information.
+    PARAGRAPH 3 or PARAGRAPH 4: The conclusion. It is the concluding paragraph. It is important to conclude what you’ve started. Never leave an article open-ended. Now, it is to be remembered that wherever you elaborate a problem, you always have to mention the steps being taken to improvise the situation and suggest a few solutions as well. Predictions and personal problems may be included. This paragraph needs to be short and precise. Here also, you could add some glitter to your art piece with some quotes.
+    \n\n
+    </string>
+    <string name="add_comment">Add Comment</string>
+</resources>

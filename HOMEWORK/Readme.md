@@ -1,6 +1,4 @@
 # Text and scrolling views
-## Testing
-![Build Screen](./screenshots/test.gif)
 ## ScreenShots
 ![Build Screen](./screenshots/first.png)
 
