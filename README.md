@@ -1,15 +1,15 @@
 #Your first interactive UI
 #POTRAIT
-![Build Screen](./screenshot/first.png)
+![Build Screen](./screenshots/first.png)
 
-![Toast Button Screen](./screenshot/toast.png)
+![Toast Button Screen](./screenshots/toast.png)
 
-![Count Button Screen](./screenshot/count.png)
+![Count Button Screen](./screenshots/count.png)
 
 # LANDSCAPE
-![Toast Button Screen](./screenshot/itoast.png)
+![Toast Button Screen](./screenshots/itoast.png)
 
-![Count Button Screen](./screenshot/icount.png)
+![Count Button Screen](./screenshots/icount.png)
 
 #GIF
-![Build Screen](./screenshot/test.gif)
+![Build Screen](./screenshots/test.gif)
