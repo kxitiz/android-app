@@ -1,4 +1,4 @@
-package com.example.labexercise;
+package com.example.activities_and_intent;
 
 import org.junit.Test;
 
